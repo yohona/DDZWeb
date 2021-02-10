@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "DDZWeb"
+  "defaultProject": "DDZWeb",
+  "cli": {
+    "analytics": false
+  }
 }
